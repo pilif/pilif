@@ -4,6 +4,6 @@ Working at <a href="https://www.sensational.ch">Sensational AG</a> which I have 
 
 Find me on the internet at other places.
 
-* <a rel="me" href="https://mastodon.social/@pilif">pilif at mastodon.social</a>
+* <a rel="nofollow me" href="https://mastodon.social/@pilif">pilif at mastodon.social</a>
 * <a href="http://news.ycombinator.com/user?id=pilif">pilif</a>
 * <a href="https://blog.pilif.me">blog.pilif.me</a>
