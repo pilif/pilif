@@ -1,6 +1,6 @@
 Programming with passion since 1996.
 
-Working at Sensational AG which I have co-founded in 2001.
+Working at <a href="https://www.sensational.ch">Sensational AG</a> which I have co-founded in 2001.
 
 Find me on the internet at other places.
 
